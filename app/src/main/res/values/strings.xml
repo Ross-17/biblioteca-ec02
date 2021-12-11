@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BIBLIOTECA</string>
+    <string name="user">Usuario</string>
+    <string name="contraseña">contraseña</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="Registrar">Registrar</string>
+    <string name="Olidaste_contraseña">¿Se olvido su contraseña? Click aqui</string>
+    <string name="title_activity_home">home</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="descripcion">Ambientada en el turbulento ambiente religioso del siglo XIV, la novela narra la investigación que realizan fray Guillermo de Baskerville y su pupilo Adso de Melk alrededor de una misteriosa serie de crímenes que suceden en una abadía del norte de Italia.</string>
+    <string name="Descargar">Descargar</string>
+</resources>
